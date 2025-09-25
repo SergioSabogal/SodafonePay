@@ -1,4 +1,3 @@
-Perfecto 🚀. Te armo un **README.md** inicial para tu proyecto de *Digital Wallet* en inglés, pensado para GitHub. Está estructurado de forma profesional pero accesible, destacando el objetivo, funcionalidades, arquitectura y cómo empezar.
 
 ---
 
